@@ -2,4 +2,6 @@ Esta es i Historia
 tengo 29 años
 vivo en Chile
 
+ejemplo de rebase
+
 estoy casado y hace frio
