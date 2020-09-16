@@ -8,5 +8,6 @@ Blog creado desde 0 para el curso de [Platzi y GutHub](www.platzi.com)
 * todos en consola git.bash
 * todo del repositorio local Git
 * todo lo del repositorio en linea GitHub
+* agradecimientos a los alumnos de platzi
 
 y como un amable recordatorio, no enviar correos a fredy que **no nos va a pescar ni en bajada** gracias. vayan a ver el curso [aquí](www.platzi.com)
